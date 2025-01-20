@@ -1,1 +1,0 @@
-# sum-of-odd-numbers-1-to-100
